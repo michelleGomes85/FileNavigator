@@ -8,6 +8,8 @@ public interface Constants {
 	String MSG_NOT_DIRECTORY = "O caminho inserido não pertence a um diretório";
 
 	String DATE_FORMAT = "dd/MM/yyyy - HH:mm:ss";
+	
+	String EMPTY = "";
 
 	int[] SIZE_UI = { 860, 423 };
 	
@@ -31,6 +33,8 @@ public interface Constants {
 	String BUTTON_FILE_SUBDIRECTORY_TIP = "Exibir Arquivos e Subdiretórios";
 	
 	String TITLE_BORDER = "Conteúdo do diretório";
+	
+	String FORMAT_PROPERTIES = "\n - Caminho Absoluto: %s\n - Nome: %s\n - Última Modificação: %s\n - Tamanho em Bytes: %s Bytes";
 	
 	
 	

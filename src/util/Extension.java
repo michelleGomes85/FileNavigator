@@ -2,10 +2,10 @@ package util;
 
 public enum Extension {
 
-	ALL("*.*"),
+	ALL("ALL"),
 	DOCX("DOCX"),
 	EXE("EXE"),
-	JAVA("Java"),
+	JAVA("JAVA"),
 	JPG("JPG"),
 	PDF("PDF"),
 	PNG("PNG"),
