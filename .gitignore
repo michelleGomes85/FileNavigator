@@ -1,6 +1,6 @@
 # Arquivos de compilação Java
-bin/
-jar/
+bin
+jar
 
 # Arquivos .class gerados
 *.class

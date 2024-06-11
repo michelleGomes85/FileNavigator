@@ -10,8 +10,6 @@ public interface Constants {
 	String DATE_FORMAT = "dd/MM/yyyy - HH:mm:ss";
 
 	int[] SIZE_UI = { 860, 423 };
-
-	String[] EXTENSOES_ARQUIVOS = { "*.*", "DOCX", "EXE", "Java", "JPG", "PDF", "PNG", "PPTX", "RTF", "TXT", "XLSX" };
 	
 	String LABEL_DIRECTORY = "Diretório: ";
 	String LABEL_DIRECTORY_TIP = "Digite o caminho do diretório";
@@ -31,6 +29,8 @@ public interface Constants {
 	
 	String BUTTON_FILE_SUBDIRECTORY = "Arquivos e Subdiretórios";
 	String BUTTON_FILE_SUBDIRECTORY_TIP = "Exibir Arquivos e Subdiretórios";
+	
+	String TITLE_BORDER = "Conteúdo do diretório";
 	
 	
 	
