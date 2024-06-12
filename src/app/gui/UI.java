@@ -366,11 +366,9 @@ public class UI extends JFrame implements Constants {
 	
 	private void resetFields() {
 		
-		fileSubdirectoriesButton.setSelected(true);
 		searchDirectoryTextField.setText(EMPTY);
 		
-		filesSubdirectoriesList.setListData(new String[0]);;
-		current = OptionRadioButton.FILES_SUBDIRECTORIES;
+		filesSubdirectoriesList.setListData(new String[0]);
 		
 		propertiesTextArea.setText(EMPTY);
 		
