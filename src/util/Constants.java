@@ -1,5 +1,9 @@
 package util;
 
+/**
+ * Interface que contém constantes utilizadas no programa Verificador de
+ * Arquivos.
+ */
 public interface Constants {
 
 	String TITLE_PROGRAM = "Verificador de arquivos";

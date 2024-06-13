@@ -9,6 +9,9 @@ import static javax.swing.JOptionPane.showMessageDialog;
 
 import java.awt.Component;
 
+/**
+ * Classe utilitária para exibição de caixas de diálogo e conversão de valores.
+ */
 public class InputOutput {
 	
 	/**
@@ -78,4 +81,4 @@ public class InputOutput {
 			return null;
 		}
 	}
-}//class EntradaESaida
+}//class InputOutput

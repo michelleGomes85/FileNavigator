@@ -1,5 +1,8 @@
 package util;
 
+/**
+ * Enumeração que representa diferentes tipos de extensões de arquivo.
+ */
 public enum Extension {
 
 	ALL("ALL"),
@@ -28,6 +31,11 @@ public enum Extension {
 		this.name = name;
 	}
 	
+	/**
+	 * Obtém uma lista com os nomes de todas as extensões de arquivo.
+	 *
+	 * @return uma matriz de strings com os nomes de todas as extensões de arquivo
+	 */
 	public static String[] names() {
 		
 		String[] names = new String[Extension.values().length];
