@@ -53,3 +53,8 @@ verificador-de-arquivos/
 ## Tela inicial
 
 ![Initial Screem](img-doc/screen.png)
+
+## Licença / Autor
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/michelleGomes85/FileNavigator/blob/main/LICENSE) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michellegomes85)
